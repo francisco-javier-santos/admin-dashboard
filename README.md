@@ -1,2 +1,2 @@
 # admin-dashboard
-Next task of the Odin Project to practice CSS Grid.
+Final intermediate test of the Odin Project for HTML and CSS, with a JavaScript addition to switch between dark and light themes.
